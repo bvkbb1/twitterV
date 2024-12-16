@@ -52,6 +52,7 @@ class NotificationPage extends StatelessWidget {
           Text('Body: ${message['body']}'),
           if (message['extraData'] != null)
             Text('Extra Data: ${message['extraData']}'),
+            Text('Check VS code commit')
         ],
       )
       :
