@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796874351936",
+    "project_id": "twitterclonev",
+    "storage_bucket": "twitterclonev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796874351936:android:2b32e57b7c33192a9486a5",
+        "android_client_info": {
+          "package_name": "app.vinay.twitterv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgzCEoBORLnAQL8oXnMzjyHTHNSO5vOwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
